@@ -12,7 +12,7 @@ t
 
 To deliver the solution effectively, a set of Azure resources is necessary. The following table outlines the required resources and their specific purposes for the project.
 
-| **Resource Name**       | **Purpose**                                                         |
+| **Resource Name**       | **Purpose**                t                                         |
 |-------------------------|---------------------------------------------------------------------|
 | **AI Hub**              | Centralized platform for managing AI solutions.                     |
 | **AI Project**          | Organize and manage Gen AI projects.                                |
