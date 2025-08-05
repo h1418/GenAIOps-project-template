@@ -23,7 +23,7 @@ To deliver the solution effectively, a set of Azure resources is necessary. The 
 | **Key Vault**           | Manage and protect sensitive information such as keys and secrets.  |
 | **Storage Account**     | Store and manage data and files used by your application.           |
 | **AI Search**           | Implement Vector Search for the RAG retrieval step.                 |
-| **App Service**         | Host and manage your app.                                           |
+| **App Service**         | Host and managte your app.                                           |
 | **App Service Plan**    | Provide the resources that your App Service app needs to run.       |
 
 > **Note:** The **Premium V3 SKU** is required for the Azure App Service Plan to ensure the necessary performance and scalability for the application.
