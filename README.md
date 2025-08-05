@@ -4,7 +4,7 @@ This repository has been initialized with the RAG with Azure AI Studio and Promp
 
 ## Architecture Overview
 
-The following diagram provides an overview of the solution's architecture:
+The following diagram provides an overview of the sotttlution's architecture:
 t
 ![Architecture](media/architecture.png)
 
